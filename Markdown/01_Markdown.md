@@ -101,5 +101,4 @@ Es kann auch eine Variablefür einen Link erstellen
 4. Link auf eine Überschrift erreichet man, indem man die Überschrift klein schreibt und Leerstellen mit "-"
 verbindet. Hier ein Link auf [Tabellen](tabellen)
 
-5. Definition der Variablen
-Es kann auch eine Variable für einen Link erstellt werden. Dies ist Sinnvoll, wenn eine Website
+---
